@@ -1,2 +1,2 @@
-CP884.cpp libraries/DisplayCore/CP884
-CP884.h libraries/DisplayCore/CP884
+src libraries/DisplayCore/CP884
+library.properties libraries/DisplayCore/CP884
